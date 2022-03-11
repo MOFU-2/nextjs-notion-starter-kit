@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '谢里宝贝',
-  domain: 'https://www.notion.so/00b33ce81db34abbbc405208baa4dbed',
+  domain: 'nextjs-notion-starter-kit-ten-zeta.vercel.app',
   author: '雨路',
 
   // open graph metadata (optional)
